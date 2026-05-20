@@ -322,4 +322,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main()# Добавлено в feature-2
